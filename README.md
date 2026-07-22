@@ -1,0 +1,1 @@
+# hayate-ogata.github.io
