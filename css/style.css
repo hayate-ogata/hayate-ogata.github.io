@@ -393,8 +393,6 @@ footer {
 /*ta1テーブルブロック設定*/
 .ta1 {
 	table-layout: fixed;
-	width: 100%;				/*幅*/
-	margin-bottom: 2rem;
 	border-collapse: collapse;
 }
 
