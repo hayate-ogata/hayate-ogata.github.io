@@ -395,6 +395,7 @@ footer {
 	table-layout: fixed;
 	width: 100%;				/*幅*/
 	margin-bottom: 2rem;
+	border-collapse: collapse;
 }
 
 .ta1, .ta1 td, .ta1 th {
